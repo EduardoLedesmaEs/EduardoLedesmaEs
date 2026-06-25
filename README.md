@@ -7,21 +7,21 @@ Hi, I'm Eduardo Ledesma!
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-👋 Hi, I'm Eduardo Ledesma Espinoza!
+Hi, I'm Eduardo Ledesma!
 
-🎓 I’m a second-year Software Engineering student at Universidad Autónoma de Occidente (UAdeO), Mexico. I have some hands-on experience with Java, HTML, CSS, and JavaScript, and I’m continuously working to improve my skills through personal projects and academic practice.
+I’m a second-year Software Engineering student at Universidad Autónoma de Occidente (UAdeO), Mexico. I have some hands-on experience with Java, HTML, CSS, and JavaScript, and I’m continuously working to improve my skills through personal projects and academic practice.
 
-💻 I’m particularly interested in both frontend and backend development, and I aim to transition into the field of cybersecurity in the near future.
+I’m particularly interested in both frontend and backend development, and I aim to transition into the field of cybersecurity in the near future.
 
-🌱 Currently learning:
+Currently learning:
 - Java (OOP and real-world applications)
 - Web development technologies
 
-🤝 I’m open to collaborating on beginner-friendly open-source projects or small dev teams where I can contribute and grow.
+I’m open to collaborating on beginner-friendly open-source projects or small dev teams where I can contribute and grow.
 
-📚 Outside of tech, I enjoy reading, listening to music, and managing content on some of my social media pages.
+Outside of tech, I enjoy reading, listening to music, and managing content on some of my social media pages.
 
-📬 Reach me at: eduardoledesmaop@gmail.com
+Reach me at: eduardoledesmaop@gmail.com
 
 ## My Skills Include
 
